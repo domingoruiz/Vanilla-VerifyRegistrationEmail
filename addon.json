@@ -1,0 +1,20 @@
+{
+    "name": "Verify registration email",
+    "description": "This plugin verifies that emails with specific domains are used when registering.",
+    "version": "1.0",
+    "settingsPermission": "Garden.Settings.Manage",
+    "settingsUrl": "settings/verifyregistrationemail",
+    "license": "MIT",
+    "mobileFriendly": true,
+    "gitHub": "domingoruiz/Vanilla-VerifyRegistrationEmail",
+    "key": "verifyregistrationemail",
+    "type": "addon",
+    "hasLocale": true,
+    "authors": [
+        {
+            "name": "Domingo Ruiz",
+            "homepage": "https://doming.es/",
+            "email": "ordenadordomi@gmail.com"
+        }
+    ]
+}
